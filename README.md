@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**WilsonKari/WilsonKari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Wilson Kari  
 
-Here are some ideas to get you started:
+🚀 **Estudiante de Ingeniería de Sistemas | Desarrollo de Software | Inteligencia Artificial**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy estudiante del **noveno ciclo de Ingeniería de Sistemas** en la **Universidad San Luis Gonzaga de Ica** con un fuerte interés en el **desarrollo de software, la inteligencia artificial y la tecnología en general**. Me especializo en la creación de soluciones tecnológicas aplicando herramientas y metodologías modernas.  
+
+## 📌 **Habilidades Técnicas**  
+✔ **Lenguajes:** C#, Java, JavaScript  
+✔ **Frameworks y Tecnologías:** React.js, Express.js, Bootstrap, Tailwind CSS, Node.js, RESTful APIs, Azure  
+✔ **Bases de Datos y Control de Versiones:** MySQL, Git, GitHub  
+✔ **Herramientas:** Visual Studio Code, Figma  
+
+## 🛠 **Experiencia en Proyectos**  
+He participado en múltiples **proyectos académicos y personales**, enfocándome en el desarrollo de aplicaciones web y en la aplicación de **inteligencia artificial** en distintos escenarios. Me interesa aprender y aplicar nuevas tecnologías para desarrollar soluciones eficientes y escalables.  
+
+📩 **Busco oportunidades para crecer profesionalmente en el ámbito del desarrollo de software e inteligencia artificial. ¡Estoy listo para nuevos desafíos!**
